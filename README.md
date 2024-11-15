@@ -1,16 +1,62 @@
-# submission
+# Trio -3 Icon App In Flutter
 
-A new Flutter project.
+
+## Screenshots
+<img src = "screenshot/screen01.png" width ="200" />
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter SDK (latest stable version)
+- Android Studio / VS Code
+- Git
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository
+```bash
+git clone https://github.com/siraajul/submission.git
+```
+
+2. Navigate to the project directory
+```bash
+cd panels
+```
+
+3. Install dependencies
+```bash
+flutter pub get
+```
+
+4. Run the app
+```bash
+flutter run
+```
+
+## Project Structure
+
+```
+lib/
+  ├── screenc/         # UI screens
+  └── main.dart      # Entry point
+```
+
+## Tech Stack
+- Flutter
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
+## Contact
+
+Your Name - [@siraaajul](https://twitter.com/siraaajul)
+
+Project Link: [https://github.com/siraajul/submission](https://github.com/siraajul/submission)
